@@ -54,3 +54,7 @@ using System.Runtime.InteropServices;
 /*2018021800(1) Agregar método para redimir puntos de CR plásticos*/
 [assembly: AssemblyVersion("2.0.0.1")]
 [assembly: AssemblyFileVersion("2.0.0.1")]
+
+/*2018051600(1) Nuevo método para obtener CR de Gcom*/
+[assembly: AssemblyVersion("2.0.0.2")]
+[assembly: AssemblyFileVersion("2.0.0.2")]
