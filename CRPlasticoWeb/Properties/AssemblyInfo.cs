@@ -55,6 +55,6 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyVersion("2.0.0.1")]
 [assembly: AssemblyFileVersion("2.0.0.1")]
 
-/*2018051600(1) Nuevo método para obtener CR de Gcom*/
+/*2018051600(1) Nuevo método para obtener Certificados de regalo de Gcom*/
 [assembly: AssemblyVersion("2.0.0.2")]
 [assembly: AssemblyFileVersion("2.0.0.2")]
