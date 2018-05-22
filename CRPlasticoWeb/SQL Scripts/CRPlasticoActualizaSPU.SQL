@@ -9,8 +9,8 @@ SET LOCK_TIMEOUT -1
 SET QUOTED_IDENTIFIER OFF
 SET ARITHABORT OFF
 SET ANSI_WARNINGS OFF
-GO
-
+GO 
+--Cambio
 Create Procedure dbo.CRPlasticoActualizaSPU
 (
    @CR			Varchar(13),
