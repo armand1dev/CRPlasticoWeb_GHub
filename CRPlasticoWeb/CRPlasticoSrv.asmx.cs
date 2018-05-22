@@ -38,5 +38,16 @@ namespace CRPlasticoWeb
 		
 			return new CRPlasticoBS().CRPlasticoRedencion(IdPedido, IdCliente, CRPagoGcomArray);
 		}
+
+		/*
+		//2018051600(1)
+		//Agregar método para obtener CR plásticos con saldo indicado
+		[WebMethod]
+		public MsgResult CRGcom(SecurityInfo Acceso, int Cantidad, decimal Importe, string Referencia)
+		{
+
+			return new CRPlasticoBS().CRPlasticoGcom(Acceso, Cantidad, Importe, Referencia);
+		}
+		*/
 	}
 }

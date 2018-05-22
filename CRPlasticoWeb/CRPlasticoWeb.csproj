@@ -81,6 +81,8 @@
     <Compile Include="BussinesLayer\Classes\CRPagoGcom.cs" />
     <Compile Include="BussinesLayer\Classes\CRPlastico.cs" />
     <Compile Include="BussinesLayer\Classes\MsgResult.cs" />
+    <Compile Include="BussinesLayer\Classes\ResponseInfo.cs" />
+    <Compile Include="BussinesLayer\Classes\SecurityInfo.cs" />
     <Compile Include="BussinesLayer\CRPlasticoBS.cs" />
     <Compile Include="CRPlasticoSrv.asmx.cs">
       <DependentUpon>CRPlasticoSrv.asmx</DependentUpon>

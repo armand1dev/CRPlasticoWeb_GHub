@@ -51,10 +51,12 @@ using System.Runtime.InteropServices;
 /*[assembly: AssemblyVersion("2.0.0.0")]
 [assembly: AssemblyFileVersion("2.0.0.0")]*/
 
-/*2018021800(1) Agregar método para redimir puntos de CR plásticos*/
+/*2018021800(1) Agregar método para redimir puntos de CR plásticos
 [assembly: AssemblyVersion("2.0.0.1")]
 [assembly: AssemblyFileVersion("2.0.0.1")]
+*/
 
-/*2018051600(1) Nuevo método para obtener Certificados de regalo de Gcom*/
+/*2018051600(1) Agregar método para obtener CR plásticos con saldo indicado*/
 [assembly: AssemblyVersion("2.0.0.2")]
 [assembly: AssemblyFileVersion("2.0.0.2")]
+
